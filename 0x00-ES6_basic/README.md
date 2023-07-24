@@ -1,5 +1,5 @@
 # ES6 Basics
-In this project, we were required to familarize with the use of the EcmaScript 6 standard. The programs were written and testing on Ubuntu 20.04 (Linux distro).
+In this project, we were required to familarize with the use of the EcmaScript 6 standard. The programs were written and testing on  Ubuntu 18.04 LTS using `NodeJS` 12.11.1 and `npm` v6.11.3 
 
 To run the program:
 1. Ensure you have git installed on your local machine and clone the repository with the command `git clone https://github.com/tpauldike/alx-backend-javascript.git`
