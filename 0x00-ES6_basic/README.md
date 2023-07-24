@@ -7,6 +7,6 @@ To run the program:
 3. Install `node.js`, if you do not have it installed `sudo apt update -y ; sudo apt install nodejs -y`
 4. Install the node package manager `sudo apt install npm`
 5. Install all the packages and dependencies `npm install`
-6. Get some test files, import the modules written here and test them by running the script `npm run dev <test+file>`
+6. Get some test files, import the modules written here and test them by running the script `npm run dev <test_file>`
 
 Contact [Topman](mailto:topman4loveworld@gmail.com) for support
