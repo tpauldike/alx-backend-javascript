@@ -4,7 +4,7 @@ In this project, we were required to familarize with the use of the EcmaScript 6
 To run the program:
 1. Ensure you have git installed on your local machine and clone the repository with the command
 
-3. `git clone https://github.com/tpauldike/alx-backend-javascript.git`
+   `git clone https://github.com/tpauldike/alx-backend-javascript.git`
 4. Navigate into the directory `cd alx-backend-javascript/0x00-ES6_basic`
 5. Install `node.js`, if you do not have it installed `sudo apt update -y ; sudo apt install nodejs -y`
 6. Install the node package manager `sudo apt install npm`
